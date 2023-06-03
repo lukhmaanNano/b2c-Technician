@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188812774720",
+    "project_id": "b2c-technician-6bee6",
+    "storage_bucket": "b2c-technician-6bee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188812774720:android:8940c0716f3e99fd3a3ea5",
+        "android_client_info": {
+          "package_name": "com.example.b2ctechnician"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXP0pUXaixE_2PeMHPjgKUs6phIXINXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
